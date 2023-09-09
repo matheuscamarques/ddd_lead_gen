@@ -1,6 +1,6 @@
 # DddLeadGen
 
-**TODO: Add description**
+Lead generator for Linkdlind using OpenAPI
 
 ## Installation
 
@@ -18,5 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/ddd_lead_gen](https://hexdocs.pm/ddd_lead_gen).
-
-# ddd_lead_gen
